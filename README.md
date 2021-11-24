@@ -83,6 +83,7 @@ wsa://com.android.settings
 | App分享 (AppShare) | 2.1.1 (164) | ❌ | Can't login ||
 | Authenticator by Microsoft | 6.2110.6737 |🆖| Requires GMS ||
 | Arcaea | 3.8.8 | ⚠️ | Keyboard doesn't work on login/register form | |
+| Avast Antivirus| 6.44.2 | ✅ | GMS warnings appear but can be ignored and still works |
 | Azur Lane | 6.0.1 | ✅ |||
 | Bad Piggies HD | 2.4.3141 | ✅ | | |
 | BanG Dream! Girls Band Party! | 4.5.0 | 🆖 | Requires GMS | |
@@ -114,6 +115,7 @@ wsa://com.android.settings
 | Device Info HW | 5.4.1 | ✅ |||
 | Decibel X | 6.4.2 |	⚠️ | App crashes |
 | Discord | 98.6 | ✅ |||
+| Digital Secure by Verizon | 5.3.0 | ⚠️| Works but Dark Web monitoring doesn't work |
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
 | Duolingo | 5.2.35 | ✅ | | |
